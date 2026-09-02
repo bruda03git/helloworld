@@ -1,2 +1,4 @@
-# MY Example
-This is a sample repo. Hello World
+# My Example
+This is a sample repo, Hello World.
+
+Adding more
